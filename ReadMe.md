@@ -14,8 +14,26 @@ Keep up to date, don't use earlier than v6
 
 Benefits: npm audit runs automatically
 
+npm init: discuss
+
 ### git
 
 Create a repo
 Add a ReadMe: why
 Add a git ignore: why
+Source: https://github.com/github/gitignore/blob/master/Node.gitignore
+Good resource to bookmark: https://github.com/github/gitignore
+
+### folder structure
+app
+lib
+tests
+
+Discuss
+
+### Test framework
+
+npm install --save-dev jest : discuss syntax
+
+Why jest?
+

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wsinned/numerals/issues"
   },
-  "homepage": "https://github.com/wsinned/numerals#readme"
+  "homepage": "https://github.com/wsinned/numerals#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
