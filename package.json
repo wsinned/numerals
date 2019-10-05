@@ -1,0 +1,19 @@
+{
+  "name": "numerals",
+  "version": "1.0.0",
+  "description": "Roman Numerals TDD sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsinned/numerals.git"
+  },
+  "author": "Dennis Woodruff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsinned/numerals/issues"
+  },
+  "homepage": "https://github.com/wsinned/numerals#readme"
+}
