@@ -18,16 +18,17 @@ npm init: discuss
 
 ### git
 
-Create a repo
-Add a ReadMe: why
-Add a git ignore: why
-Source: https://github.com/github/gitignore/blob/master/Node.gitignore
-Good resource to bookmark: https://github.com/github/gitignore
+- Getting installed and creating ssh keys.
+- Create a repo
+- Add a ReadMe: why
+- Add a git ignore: why
+- Source: https://github.com/github/gitignore/blob/master/Node.gitignore
+- Good resource to bookmark: https://github.com/github/gitignore
 
 ### folder structure
-app
-lib
-tests
+- app
+- lib
+- tests
 
 Discuss
 
@@ -35,5 +36,6 @@ Discuss
 
 npm install --save-dev jest : discuss syntax
 
-Why jest?
+Why jest? It is simple and works out of the box. It is highly configureable. What do our FE Engineers use?
+
 
