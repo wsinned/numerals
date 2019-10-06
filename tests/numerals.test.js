@@ -1,5 +1,3 @@
-// require("jest");
-
 const  toRoman  = require('../lib/numerals');
 
 describe('It returns the numeral given an integer up to 4000', () => {
